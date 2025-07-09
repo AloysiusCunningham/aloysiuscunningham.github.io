@@ -31,7 +31,12 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
-
+    createPlatform(700,300,30,300, "red")
+    createPlatform(200,650,175,30, "blue")
+    createPlatform(350,525,125,30, "green")
+    createPlatform(575,425,75,30, "blue")
+    createPlatform(900,500,125,30, "green")
+        createPlatform(1100,400,125,30, "blue")
 
 
 
